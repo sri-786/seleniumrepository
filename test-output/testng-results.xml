@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-01-07T20:49:56 IST" name="Default suite" finished-at="2024-01-07T20:49:56 IST" duration-ms="47">
+    <groups>
+    </groups>
+    <test started-at="2024-01-07T20:49:56 IST" name="Default test" finished-at="2024-01-07T20:49:56 IST" duration-ms="47">
+      <class name="testng_practice.TestNg_cls1">
+        <test-method signature="f()[pri:0, instance:testng_practice.TestNg_cls1@4d465b11]" started-at="2024-01-07T20:49:56 IST" name="f" finished-at="2024-01-07T20:49:56 IST" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+      </class> <!-- testng_practice.TestNg_cls1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
