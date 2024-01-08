@@ -7,4 +7,8 @@ public class TestNG {
   public void f() {
 	  System.out.println("new testng");
   }
+	 @Test
+  public void f1() {
+	  System.out.println("new testng add");
+  }
 }
