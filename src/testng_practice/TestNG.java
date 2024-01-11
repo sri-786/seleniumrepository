@@ -16,4 +16,8 @@ public class TestNG {
   public void f2() {
 	  System.out.println("Welcome to TestNG");
   }
+	  @Test
+  public void f3() {
+	  System.out.println("Welcome");
+  }
 }
