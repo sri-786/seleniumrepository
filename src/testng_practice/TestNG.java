@@ -20,4 +20,8 @@ public class TestNG {
   public void f3() {
 	  System.out.println("Welcome");
   }
+		  @Test
+  public void f4() {
+	  System.out.println("Welcome");
+  }
 }
