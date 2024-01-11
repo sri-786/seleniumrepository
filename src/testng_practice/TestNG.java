@@ -28,4 +28,8 @@ public class TestNG {
   public void f5() {
 	  System.out.println("Welcome");
   }
+			  @Test
+  public void f5() {
+	  System.out.println("Welcome");
+  }
 }
